@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cardo-Project/static/css/main.800ab4ca.css",
-    "main.js": "/Cardo-Project/static/js/main.ffb8ed62.js",
+    "main.css": "/Cardo-Project/static/css/main.6c0e77b6.css",
+    "main.js": "/Cardo-Project/static/js/main.18cb7a4e.js",
     "static/js/787.ec704a7a.chunk.js": "/Cardo-Project/static/js/787.ec704a7a.chunk.js",
     "index.html": "/Cardo-Project/index.html",
-    "main.800ab4ca.css.map": "/Cardo-Project/static/css/main.800ab4ca.css.map",
-    "main.ffb8ed62.js.map": "/Cardo-Project/static/js/main.ffb8ed62.js.map",
+    "main.6c0e77b6.css.map": "/Cardo-Project/static/css/main.6c0e77b6.css.map",
+    "main.18cb7a4e.js.map": "/Cardo-Project/static/js/main.18cb7a4e.js.map",
     "787.ec704a7a.chunk.js.map": "/Cardo-Project/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.800ab4ca.css",
-    "static/js/main.ffb8ed62.js"
+    "static/css/main.6c0e77b6.css",
+    "static/js/main.18cb7a4e.js"
   ]
 }
