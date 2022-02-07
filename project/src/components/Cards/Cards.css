@@ -2,6 +2,7 @@
     list-style: none;
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 4rem;
 }
 
 .container__cards-li {
@@ -14,13 +15,19 @@
     font-weight: 500;
 }
 
+.container__cards-li h2, p, button {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 .container__cards-li p {
     font-family: Open Sans;
     font-weight: 400;
 }
 
 .container__cards-li button {
-    border-radius: 10px;
+    border-radius: 2rem;
+    height: 2rem;
     width: 10rem;
     border: none;
     background-color:#A5AFD4;

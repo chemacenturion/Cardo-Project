@@ -31,11 +31,11 @@ const Cards = () => {
         <ul className='container__cards-ul'>
             {features.slice(0,6).map(item => (
             <GridColumn width={[12, 4]} flex='flex'>
-            <li className='container__cards-li'>
-            <h2>{item.title}</h2>
-            <p>{item.description}</p>
-            <button>{item.button.text}</button>
-            </li>
+              <li className='container__cards-li'>
+                <h2>{item.title}</h2>
+                  <p>{item.description}</p>
+                    <button>{item.button.text}</button>
+              </li>
             </GridColumn>
             ))} 
         </ul>
