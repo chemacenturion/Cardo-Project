@@ -1,0 +1,27 @@
+.container__cards-ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container__cards-li {
+    background-color: black;
+    margin: 2rem;
+    width: 20rem;
+    padding: 2rem;
+    color: white;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+}
+
+.container__cards-li p {
+    font-family: Open Sans;
+    font-weight: 400;
+}
+
+.container__cards-li button {
+    border-radius: 10px;
+    width: 10rem;
+    border: none;
+    background-color:#A5AFD4;
+}

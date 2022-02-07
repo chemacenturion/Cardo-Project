@@ -1,0 +1,23 @@
+.container__features {
+    height:auto;
+    width: 100vw;
+    background-color: #1d1d1c;
+}
+
+.container__features-header {
+    font-weight: 500;
+    padding: 2rem;
+    font-size: 65px;
+    color: white;
+    font-family: Cormorant Garamond;
+}
+
+@media only screen and (max-width: 1000px) {
+    .container__features-header {
+        font-weight: 500;
+        padding: 2rem;
+        font-size: 2rem;
+        color: white;
+        font-family: Cormorant Garamond;
+    }
+}

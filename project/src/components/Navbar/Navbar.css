@@ -1,0 +1,46 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    height: 6rem;
+}
+
+.header {
+    padding: 1em;
+    color: black;
+    font-size: xx-large;
+    font-style: italic;
+    font-style: oblique;
+    font-weight: 400;
+    vertical-align: middle;
+}
+
+.mobile-icon {
+    display: none;
+}
+
+@media only screen and (max-width: 1000px) {
+    .navigation {
+      display: flex;
+      justify-content: space-between;
+      height: 5rem;
+  }
+    
+    .header {
+        color: black;
+        font-size: large;
+        font-style: italic;
+        font-style: oblique;
+        font-weight: 400;
+        vertical-align: middle;
+        padding-top: 1.5rem;
+    }
+
+    .mobile-icon {
+        display: flex;
+        color: white;
+        height: auto;
+        width: 3rem;
+        padding-right: 1rem;
+        cursor: pointer;
+    }
+}
