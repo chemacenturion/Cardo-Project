@@ -5,6 +5,7 @@ This was a recent take home technical interview I was assigned with utilizing tw
 
 ## Table of Contents:
 * [Client-Draft](#Client-Draft)
+* [Desktop-Version](#Desktop-Version)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
@@ -14,6 +15,9 @@ This was a recent take home technical interview I was assigned with utilizing tw
 
 ## Client-Draft
 ![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
+
+## Desktop-Version
+
 
 ## Installation
 * To install neccesary dependencies please run the following command:
