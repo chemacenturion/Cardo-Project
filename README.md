@@ -4,12 +4,16 @@
 This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with - Figma and Emotion. I tried my best to render the client's desired design in a REACT.js application, utilizing an API call for the features section.
 
 ## Table of Contents:
+* [Client-Draft](#Client-Draft)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Questions](#Questions)
+
+## Client-Draft
+![Figma](https://github.com/chemacenturion/Golf_Guidance/blob/main/client/src/images/Screenshot.png?raw=true)
 
 ## Installation
 * To install neccesary dependencies please run the following command:
