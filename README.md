@@ -37,4 +37,4 @@ paraguayandeveloper@gmail.com
 <br/>
 You can follow my work at my Github listed below:
 <br/>
-chemacenturion
+[chemacenturion](https://github.com/chemacenturion)
