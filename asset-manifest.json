@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Cardo-Project/static/css/main.f87456aa.css",
-    "main.js": "/Cardo-Project/static/js/main.06a1f6b2.js",
+    "main.css": "/Cardo-Project/static/css/main.cfd63c52.css",
+    "main.js": "/Cardo-Project/static/js/main.3bfc4df6.js",
     "static/js/787.ec704a7a.chunk.js": "/Cardo-Project/static/js/787.ec704a7a.chunk.js",
     "static/media/Background.png": "/Cardo-Project/static/media/Background.062d72c129654a9a20db.png",
     "index.html": "/Cardo-Project/index.html",
-    "main.f87456aa.css.map": "/Cardo-Project/static/css/main.f87456aa.css.map",
-    "main.06a1f6b2.js.map": "/Cardo-Project/static/js/main.06a1f6b2.js.map",
+    "main.cfd63c52.css.map": "/Cardo-Project/static/css/main.cfd63c52.css.map",
+    "main.3bfc4df6.js.map": "/Cardo-Project/static/js/main.3bfc4df6.js.map",
     "787.ec704a7a.chunk.js.map": "/Cardo-Project/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87456aa.css",
-    "static/js/main.06a1f6b2.js"
+    "static/css/main.cfd63c52.css",
+    "static/js/main.3bfc4df6.js"
   ]
 }
