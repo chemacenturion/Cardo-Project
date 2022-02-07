@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cardo-project/static/css/main.073c9b0a.css",
+    "main.js": "/cardo-project/static/js/main.aede3701.js",
+    "static/media/logo.svg": "/cardo-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cardo-project/index.html",
+    "main.073c9b0a.css.map": "/cardo-project/static/css/main.073c9b0a.css.map",
+    "main.aede3701.js.map": "/cardo-project/static/js/main.aede3701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aede3701.js"
+  ]
+}
