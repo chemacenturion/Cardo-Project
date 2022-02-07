@@ -13,7 +13,7 @@ This was a recent take home technical interview I was assigned with utilizing tw
 * [Questions](#Questions)
 
 ## Client-Draft
-![Figma](https://github.com/chemacenturion/Golf_Guidance/blob/main/client/src/images/Screenshot.png?raw=true)
+![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
 
 ## Installation
 * To install neccesary dependencies please run the following command:
