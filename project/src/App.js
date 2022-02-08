@@ -16,7 +16,7 @@ import { GridWrap } from "emotion-flex-grid";
 
 function App() {
   return (
-    <div  style={{ backgroundColor:"darkgray"}}>
+    <div style={{ backgroundColor: "darkgray" }}>
       <GridWrap maxWidth={1440}>
         <Landing />
         <Features />

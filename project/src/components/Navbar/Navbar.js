@@ -8,25 +8,25 @@ import Mobile from '../Navbar/Mobile'
 
 const Navbar = () => {
   return (
-      <GridRow>
+    <GridRow>
+      <div style={{
+        display: 'flex',
+        alignItems: 'center'
+      }}>
         <div style={{
           display: 'flex',
-          alignItems: 'center'
-          }}>
-            <div style={{
-          display: 'flex',
-          }}>
-                <img style={{paddingLeft: '1.5rem'}}src={Vector} alt='Stars' />
-                <h1 style={{
-                  fontFamily: 'Cormorant Garamond', 
-                  paddingTop: '0.5rem', 
-                  paddingLeft: '1rem'
-                }}>Cardo</h1>
-            </div>
-            <Desktop />
-            <Mobile />
+        }}>
+          <img style={{ paddingLeft: '1.5rem' }} src={Vector} alt='Stars' />
+          <h1 style={{
+            fontFamily: 'Cormorant Garamond',
+            paddingTop: '0.5rem',
+            paddingLeft: '1rem'
+          }}>Cardo</h1>
         </div>
-      </GridRow>
+        <Desktop />
+        <Mobile />
+      </div>
+    </GridRow>
   )
 };
 

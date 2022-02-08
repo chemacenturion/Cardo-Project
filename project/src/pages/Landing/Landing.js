@@ -21,31 +21,31 @@ const Landing = () => {
                 <img src={starlets} alt='starlets' />
               </GridColumn>
               <GridColumn p={['s', 'm']}>
-                <span style={{fontWeight: 300, fontSize: '3.75rem'}}>All the <span style={{fontWeight: 500, fontSize: '4rem'}}>experience</span> in the new credit card.</span>
+                <span style={{ fontWeight: 300, fontSize: '3.75rem' }}>All the <span style={{ fontWeight: 500, fontSize: '4rem' }}>experience</span> in the new credit card.</span>
               </GridColumn>
               <GridColumn p={['s', 'm']}>
-                <img style={{width: '6rem'}} src={arrow} alt='arrow' />
+                <img style={{ width: '6rem' }} src={arrow} alt='arrow' />
               </GridColumn>
               <GridColumn p={['s', 'm']}>
                 <p className='landing__paragraph'>Simple transfers, payments for utilities, functional statements, and card settings for which you used to have to go to the branch for are now all accessible with online banking </p>
               </GridColumn>
               <GridColumn p={['s', 'm']}>
                 <button style={{
-                  borderRadius: '100px', 
-                  padding:'20px', 
+                  borderRadius: '100px',
+                  padding: '20px',
                   backgroundColor: 'black',
                   color: 'white',
                   width: '10rem',
                   border: 'none',
                   fontWeight: 500
-                  }}>Order a card</button><span style={{marginLeft: '0.5rem', fontWeight: 500}}>How it works &gt;</span>
+                }}>Order a card</button><span style={{ marginLeft: '0.5rem', fontWeight: 500 }}>How it works &gt;</span>
               </GridColumn>
               <GridRow>
                 <GridColumn p={['s', 'm']}>
                   <p>Active users</p>
                   <h1>5000+</h1>
                 </GridColumn>
-                <GridColumn style={{borderRight: '1px solid lightgrey', borderLeft: '1px solid lightgrey'}} p={['s', 'm']}>
+                <GridColumn style={{ borderRight: '1px solid lightgrey', borderLeft: '1px solid lightgrey' }} p={['s', 'm']}>
                   <p>Download</p>
                   <h1>30.3k</h1>
                 </GridColumn>
@@ -54,19 +54,19 @@ const Landing = () => {
                   <h1>1200+</h1>
                 </GridColumn>
               </GridRow>
-            <GridColumn>
-                  <img className='landing__card' src={mobileCard} alt='mobile-card' />
-            </GridColumn>
+              <GridColumn>
+                <img className='landing__card' src={mobileCard} alt='mobile-card' />
+              </GridColumn>
             </GridColumn>
           </GridWrap>
         </GridColumn>
         <GridColumn className='container__desktop' width={[0, 5]} flex='flex'>
-        <div style={{ 
-          backgroundImage: `url(${background})`,
-          backgroundRepeat: 'no-repeat',
-          height: '100%',
+          <div style={{
+            backgroundImage: `url(${background})`,
+            backgroundRepeat: 'no-repeat',
+            height: '100%',
           }}>
-        </div>
+          </div>
         </GridColumn>
       </GridRow>
     </>

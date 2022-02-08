@@ -9,7 +9,7 @@ const Features = () => {
       <GridWrap maxWidth={1216}>
         <header className='container__features-header'>Experience The Cardo</header>
         <Cards />
-      </GridWrap>   
+      </GridWrap>
     </div>
   )
 };
