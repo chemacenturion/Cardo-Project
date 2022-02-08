@@ -3,7 +3,10 @@
 ## Description
 This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with:
 
-Figma
+Figma 
+<br/>
+and
+<br/>
 Emoition-Flex-Grid
 
 I tried my best to render the client's desired design in a REACT.js application, utilizing an API call for the features section.
