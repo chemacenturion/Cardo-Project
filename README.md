@@ -15,8 +15,8 @@ This was a recent take home technical interview I was assigned with utilizing tw
 * [Questions](#Questions)
 
 ## Deployed-Application
-You can access the application via this link:
-[CLICK HERE](https://chemacenturion.github.io/Cardo-Project/)
+You can access the application via this
+[link](https://chemacenturion.github.io/Cardo-Project/)
 
 ## Assigned-Figma
 ![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
