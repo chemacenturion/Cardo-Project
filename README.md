@@ -16,19 +16,18 @@ This was just a design oriented technical interview and thus this is NOT meant t
 
 ![Display GIF](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/Cardo%20(2).gif?raw=true)
 
+## Deployed-Application
+You can access the application via this
+[link](https://chemacenturion.github.io/Cardo-Project/)
+
 ## Table of Contents:
 * [Assigned-Figma](#Assigned-Figma)
-* [Desktop-Version](#Desktop-Version)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Questions](#Questions)
-
-## Deployed-Application
-You can access the application via this
-[link](https://chemacenturion.github.io/Cardo-Project/)
 
 ## Assigned-Figma
 ![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
