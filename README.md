@@ -1,7 +1,13 @@
 ## Cardo Project ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with - Figma and Emotion. I tried my best to render the client's desired design in a REACT.js application, utilizing an API call for the features section.
+This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with:
+
+Figma
+Emoition-Flex-Grid
+
+I tried my best to render the client's desired design in a REACT.js application, utilizing an API call for the features section.
+This was just a design oriented technical interview and thus this is NOT meant to be a full stack application.
 
 ![Display GIF](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/Cardo%20(2).gif?raw=true)
 
