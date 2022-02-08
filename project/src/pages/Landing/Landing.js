@@ -1,7 +1,6 @@
 import React from 'react';
 import { GridRow, GridColumn, GridWrap } from 'emotion-flex-grid';
 import background from '../../images/Background.png'
-import card from '../../images/card.png'
 import './Landing.css'
 import Navbar from '../../components/Navbar/Navbar';
 import starlets from '../../images/starlets.png'
@@ -63,9 +62,6 @@ const Landing = () => {
           height: '100vh',
           margin: '0rem 0rem 0rem 11rem'
           }}>
-            <div className='container__desktop-card'>
-              <img src={card} alt='credit-card' />
-            </div>
         </div>
         </GridColumn>
       </GridRow>
