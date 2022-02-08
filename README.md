@@ -16,8 +16,9 @@ This was a recent take home technical interview I was assigned with utilizing tw
 ## Client-Draft
 ![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
 
-## Desktop-Version
+## Desktop-View
 
+![Desktop GIF](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/Desktop.gif?raw=true)
 
 ## Installation
 * To install neccesary dependencies please run the following command:
