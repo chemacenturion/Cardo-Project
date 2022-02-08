@@ -1,5 +1,9 @@
 ## Cardo Project ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## Deployed-Application
+You can access the application via this
+[link](https://chemacenturion.github.io/Cardo-Project/)
+
 ## Description
 This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with:
 
@@ -15,10 +19,6 @@ I tried my best to render the client's desired design in a REACT.js application,
 This was just a design oriented technical interview and thus this is NOT meant to be a full stack application.
 
 ![Display GIF](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/Cardo%20(2).gif?raw=true)
-
-## Deployed-Application
-You can access the application via this
-[link](https://chemacenturion.github.io/Cardo-Project/)
 
 ## Table of Contents:
 * [Assigned-Figma](#Assigned-Figma)
