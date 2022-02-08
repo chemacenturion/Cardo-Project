@@ -3,8 +3,9 @@
 ## Description
 This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with - Figma and Emotion. I tried my best to render the client's desired design in a REACT.js application, utilizing an API call for the features section.
 
+![Display GIF](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/Cardo%20(2).gif?raw=true)
+
 ## Table of Contents:
-* [Deployed-Application](Deployed-Application)
 * [Assigned-Figma](#Assigned-Figma)
 * [Desktop-Version](#Desktop-Version)
 * [Installation](#Installation)
@@ -20,10 +21,6 @@ You can access the application via this
 
 ## Assigned-Figma
 ![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
-
-## Desktop-View
-
-![Desktop GIF](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/Desktop.gif?raw=true)
 
 ## Installation
 * To install neccesary dependencies please run the following command:
