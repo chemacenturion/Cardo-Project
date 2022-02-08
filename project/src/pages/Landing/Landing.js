@@ -12,23 +12,23 @@ const Landing = () => {
       <GridRow>
         <GridColumn className='container__landing' width={[12, 7]} flex='flex'>
         <GridWrap maxWidth={600}>
-          <GridRow>
+          <GridColumn p={['s', 'm']}>
             <Navbar />
-          </GridRow>
+          </GridColumn>
             <GridColumn p='xl'>
-          <GridRow>
+          <GridColumn p={['s', 'm']}>
             <img src={starlets} alt='starlets' />
-          </GridRow>
-          <GridRow>
+          </GridColumn>
+          <GridColumn p={['s', 'm']}>
             <span style={{fontWeight: 300, fontSize: '3.75rem'}}>All the <span style={{fontWeight: 500, fontSize: '4rem'}}>experience</span> in the new credit card.</span>
-          </GridRow>
-          <GridRow>
+          </GridColumn>
+          <GridColumn p={['s', 'm']}>
             <img style={{width: '6rem'}} src={arrow} alt='arrow' />
-          </GridRow>
-          <GridRow>
-            <p style={{width: '22rem', fontSize: '1.30rem'}}>Simple transfers, payments for utilities, functional statements, and card settings for which you used to have to go to the branch for are now all accessible with online banking </p>
-          </GridRow>
-          <GridRow>
+          </GridColumn>
+          <GridColumn p={['s', 'm']}>
+            <p className='landing__paragraph'>Simple transfers, payments for utilities, functional statements, and card settings for which you used to have to go to the branch for are now all accessible with online banking </p>
+          </GridColumn>
+          <GridColumn p={['s', 'm']}>
             <button style={{
               borderRadius: '100px', 
               padding:'20px', 
@@ -37,17 +37,17 @@ const Landing = () => {
               width: '200px',
               border: 'none'
               }}>Order a card</button><span style={{margin: '2rem'}}>How it works &gt;</span>
-          </GridRow>
+          </GridColumn>
           <GridRow>
-            <GridColumn style={{borderRight: '1px solid lightgrey'}} p={['s', 'm', 'l', 'xl']}>
+            <GridColumn style={{borderRight: '1px solid lightgrey'}} p={['s', 'm']}>
               <p>Active users</p>
               <h1>5000+</h1>
             </GridColumn>
-            <GridColumn style={{borderRight: '1px solid lightgrey'}} p={['s', 'm', 'l', 'xl']}>
+            <GridColumn style={{borderRight: '1px solid lightgrey'}} p={['s', 'm']}>
               <p>Download</p>
               <h1>30.3k</h1>
             </GridColumn>
-            <GridColumn p={['s', 'm', 'l', 'xl']}>
+            <GridColumn p={['s', 'm']}>
               <p>Reviews</p>
               <h1>1200+</h1>
             </GridColumn>
