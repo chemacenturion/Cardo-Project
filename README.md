@@ -4,6 +4,7 @@
 This was a recent take home technical interview I was assigned with utilizing two technologies that I was unfamiliar with - Figma and Emotion. I tried my best to render the client's desired design in a REACT.js application, utilizing an API call for the features section.
 
 ## Table of Contents:
+* [Deployed-Application](Deployed-Application)
 * [Assigned-Figma](#Assigned-Figma)
 * [Desktop-Version](#Desktop-Version)
 * [Installation](#Installation)
@@ -12,6 +13,10 @@ This was a recent take home technical interview I was assigned with utilizing tw
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Questions](#Questions)
+
+## Deployed-Application
+You can access the application via this link:
+[CLICK HERE](https://chemacenturion.github.io/Cardo-Project/)
 
 ## Assigned-Figma
 ![Figma](https://github.com/chemacenturion/Cardo-Project/blob/main/project/src/images/clientDraft.png?raw=true)
