@@ -4,8 +4,12 @@
 }
 
 .landing__paragraph {
-    width: 22rem;
+    width: 21rem;
     font-size: 1rem
+}
+
+.landing__card {
+    display: none;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -16,5 +20,12 @@
     .landing__paragraph {
         width: 18rem;
         font-size: 1rem
+    }
+
+    .landing__card {
+        display: flex;
+        border-radius: 30px 0px;
+        width: 90%;
+        margin: 1rem;
     }
 }
