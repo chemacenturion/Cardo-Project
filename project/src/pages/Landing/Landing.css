@@ -1,18 +1,9 @@
 .container__landing {
-    height: 98vh;
-    width: 100vw;
+    height: auto;
     background-color: white;
 }
 
-.container__desktop-card {
-    position: absolute;
-    top: 35%;
-    right: 2%;
-    width: 30rem;
-    height: 15rem;
-}
-
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1000px) {
     .container__desktop {
         display: none;
     }

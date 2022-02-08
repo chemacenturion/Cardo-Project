@@ -3,6 +3,7 @@ import "./App.css";
 // import { getLCP, getFID, getCLS } from "web-vitals";
 import Landing from "./pages/Landing/Landing";
 import Features from "./pages/Features/Features";
+import { GridWrap } from "emotion-flex-grid";
 
 // if (typeof window !== "undefined") {
 //   getCLS(console.log);
@@ -15,10 +16,12 @@ import Features from "./pages/Features/Features";
 
 function App() {
   return (
-    <>
-      <Landing />
-      <Features />
-    </>
+    <div  style={{ backgroundColor:"darkgray"}}>
+      <GridWrap maxWidth={1440}>
+        <Landing />
+        <Features />
+      </GridWrap>
+    </div>
   );
 }
 

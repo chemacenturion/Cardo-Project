@@ -1,6 +1,5 @@
 .container__features {
-    height:auto;
-    width: 100vw;
+    height: auto;
     background-color: #1d1d1c;
 }
 
@@ -8,7 +7,6 @@
     font-weight: 500;
     padding: 2rem;
     padding-top: 7rem;
-    padding-left: 20rem;
     font-size: 65px;
     color: white;
     font-family: Cormorant Garamond;

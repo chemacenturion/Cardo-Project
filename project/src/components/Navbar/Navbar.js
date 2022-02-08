@@ -1,25 +1,30 @@
 import React from 'react';
 import { GridRow } from 'emotion-flex-grid';
 import Vector from '../../images/Vector.png';
-import hamburger from '../../images/hamburger.png'
-import './Navbar.css'
+import './Navbar.css';
+import Desktop from '../Navbar/Desktop';
+import Mobile from '../Navbar/Mobile'
+
 
 const Navbar = () => {
   return (
       <GridRow>
-        <div className='navigation__container'>
-            <div className='navigation__container-stars'>
-                <img className='container__star-1' src={Vector} alt='Stars' />
-                <img className='container__star-2' src={Vector} alt='Stars' />
+        <div style={{
+          display: 'flex',
+          alignItems: 'center'
+          }}>
+            <div style={{
+          display: 'flex',
+          }}>
+                <img style={{paddingLeft: '1.5rem'}}src={Vector} alt='Stars' />
+                <h1 style={{
+                  fontFamily: 'Cormorant Garamond', 
+                  paddingTop: '0.5rem', 
+                  paddingLeft: '1rem'
+                }}>Cardo</h1>
             </div>
-            <h1 className='navigation__container-header'>Cardo</h1>
-            <ul className='navigation__container-menu'>
-                <li>Deposit</li>
-                <li>Dashboard</li>
-                <li>Company</li>
-                <li>Pricing</li>
-            </ul>
-            <img className='navigation__container-hamburger' src={hamburger} alt='hamburger-menu' />
+            <Desktop />
+            <Mobile />
         </div>
       </GridRow>
   )
