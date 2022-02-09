@@ -40,7 +40,7 @@ const Landing = () => {
                   fontWeight: 500
                 }}>Order a card</button><span style={{ marginLeft: '0.5rem', fontWeight: 500 }}>How it works &gt;</span>
               </GridColumn>
-              <GridRow>
+              <GridRow className='container__landing-stats'>
                 <GridColumn p={['s', 'm']}>
                   <p>Active users</p>
                   <h1>5000+</h1>
