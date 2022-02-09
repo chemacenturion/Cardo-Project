@@ -21,7 +21,7 @@ const Landing = () => {
                 <img src={starlets} alt='starlets' />
               </GridColumn>
               <GridColumn p={['s', 'm']}>
-                <span style={{ fontWeight: 300, fontSize: '3.75rem' }}>All the <span style={{ fontWeight: 500, fontSize: '4rem' }}>experience</span> in the new credit card.</span>
+                <span style={{ fontWeight: 300, fontSize: '3rem' }}>All the <span style={{ fontWeight: 500, fontSize: '3.75rem' }}>experience</span> <br/> in the new credit card.</span>
               </GridColumn>
               <GridColumn p={['s', 'm']}>
                 <img style={{ width: '6rem' }} src={arrow} alt='arrow' />
