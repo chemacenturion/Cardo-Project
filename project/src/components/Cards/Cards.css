@@ -49,10 +49,25 @@
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) and (orientation: landscape) {
     .container__cards-li {
-        margin: 0rem 0rem 1rem 1rem;
-        width: 15rem;
-        padding: 1rem;
+        margin: 0rem 0rem 1rem 2rem;
+        width: 18rem;
+        padding: 0.75rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .container__cards-li {
+        margin: 0rem 0rem 1rem 2rem;
+        width: 20rem;
+        padding: 0.75rem;
+    }
+}
+
+@media only screen and (max-width: 480px) and (orientation: landscape) {
+    .container__cards-li {
+        display: flex;
+        flex-direction: column;
     }
 }
