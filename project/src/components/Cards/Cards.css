@@ -32,3 +32,27 @@
     border: none;
     background-color:#A5AFD4;
 }
+
+@media only screen and (max-width: 1280px) {
+    .container__cards-li {
+        margin: 1rem;
+        width: 18rem;
+        padding: 1rem;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .container__cards-li {
+        margin: 1rem;
+        width: 15rem;
+        padding: 1rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .container__cards-li {
+        margin: 0rem 0rem 1rem 1rem;
+        width: 15rem;
+        padding: 1rem;
+    }
+}

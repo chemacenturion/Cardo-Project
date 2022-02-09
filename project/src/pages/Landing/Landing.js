@@ -1,5 +1,5 @@
 import React from 'react';
-import { GridRow, GridColumn, GridWrap } from 'emotion-flex-grid';
+import { GridRow, GridColumn } from 'emotion-flex-grid';
 import background from '../../images/Background.png'
 import './Landing.css'
 import Navbar from '../../components/Navbar/Navbar';
@@ -11,8 +11,8 @@ const Landing = () => {
   return (
     <>
       <GridRow>
-        <GridColumn className='container__landing' width={[12, 7]} flex='flex'>
-          <GridWrap maxWidth={600}>
+        <GridColumn className='container__landing'>
+          <GridColumn className='container__landing-content'>
             <GridColumn p={['s', 'm']}>
               <Navbar />
             </GridColumn>
@@ -58,9 +58,9 @@ const Landing = () => {
                 <img className='landing__card' src={mobileCard} alt='mobile-card' />
               </GridColumn>
             </GridColumn>
-          </GridWrap>
+          </GridColumn>
         </GridColumn>
-        <GridColumn className='container__desktop' width={[0, 5]} flex='flex'>
+        <GridColumn className='container__desktop'>
           <div style={{
             backgroundImage: `url(${background})`,
             backgroundRepeat: 'no-repeat',

@@ -27,7 +27,7 @@ const Cards = () => {
     <>
       {loading && <div>Loading</div>}
       {!loading && (
-        <GridRow wrap='wrap'>
+        <GridRow>
           <ul className='container__cards-ul'>
             {features.slice(0, 6).map(item => (
               <GridColumn width={[12, 6, 4]} flex='flex'>
