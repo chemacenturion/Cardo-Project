@@ -6,6 +6,7 @@ import Navbar from '../../components/Navbar/Navbar';
 import starlets from '../../images/starlets.png'
 import arrow from '../../images/arrow.png'
 import mobileCard from '../../images/mobileCard.png'
+import mobileStars from '../../images/mobileStars.png'
 
 const Landing = () => {
   return (
@@ -19,6 +20,7 @@ const Landing = () => {
             <GridColumn p='xl'>
               <GridColumn p={['s', 'm']}>
                 <img src={starlets} alt='starlets' />
+                <img className='container__landing-stars' src={mobileStars} alt ='mobile-stars' />
               </GridColumn>
               <GridColumn p={['s', 'm']}>
                 <span style={{ fontWeight: 300, fontSize: '3rem' }}>All the <span style={{ fontWeight: 500, fontSize: '3.75rem' }}>experience</span> <br/> in the new credit card.</span>

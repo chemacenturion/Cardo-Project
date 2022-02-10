@@ -31,6 +31,7 @@ const Mobile = () => {
         top: 100,
         backgroundColor: 'whitesmoke',
         width: '100%',
+        zIndex: 2,
         position: 'absolute',
         right: 0
       }}>
