@@ -28,7 +28,7 @@ const Mobile = () => {
         listStyle: 'none',
         display: 'flex',
         flexDirection: 'column',
-        top: 100,
+        top: 80,
         backgroundColor: 'whitesmoke',
         width: '100%',
         zIndex: 2,
